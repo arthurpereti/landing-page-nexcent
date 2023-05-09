@@ -1,0 +1,64 @@
+*{
+    margin: 0px; padding: 0px;
+}
+
+
+header{
+    background: #FFFFFF;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100vw;
+    height: 85px;
+}
+
+
+header #logoheader{
+    width: 154.49px;
+    height: 24px;
+
+    margin-left: 2rem;
+}
+
+header #navebutton{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    width: 50vw;
+}
+
+header #navebutton .itenslistheader{
+    list-style: none;
+
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+
+    
+}
+
+header #navebutton .itenslistheader a{
+    list-style: none;
+    text-decoration: none;
+
+    color: black;
+}
+
+
+header #registernowheader{
+    color: white;
+    background: #4CAF4F;
+
+    border: 0px;
+    border-radius: 2.7px;
+
+    padding: 15px 25px;
+    margin: 10px;
+}
+
+
+

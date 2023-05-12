@@ -69,6 +69,10 @@
 /* ========================================================== */
 /* ===================      Section Clients    ============== */
 
+.clients{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
 
 .clients .textoclients{
     gap: 10px;
@@ -97,6 +101,13 @@
 
     text-align: center;
 
-
     color: #717171;
+}
+
+.clients #logoclientes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    padding: 20px;
 }

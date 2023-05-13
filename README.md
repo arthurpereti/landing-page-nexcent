@@ -1,5 +1,6 @@
-Landing Page do Projeto
-Descrição
+### Landing Page do Projeto
+
+## Descrição
 Este projeto consiste na criação de uma landing page responsiva, utilizando o design fornecido no Figma. A landing page é uma página inicial atraente e informativa, cujo objetivo é capturar a atenção dos usuários e incentivá-los a tomar uma ação específica, como preencher um formulário, se inscrever em uma newsletter, fazer uma compra, entre outros.
 
 O design fornecido no Figma servirá como referência visual para o desenvolvimento da página, garantindo a fidelidade ao layout proposto.

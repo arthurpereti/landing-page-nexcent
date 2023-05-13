@@ -1,6 +1,6 @@
-.banner{
+.banner {
     width: 100vw;
-    height: 420px;
+    height: 26.25rem;
     background: #F5F7FA;
 
     display: flex;
@@ -11,47 +11,47 @@
 }
 
 
-.banner #textobannersection01{
+.banner #textobannersection01 {
     margin-left: 28rem;
     display: flex;
     flex-direction: column;
 
     width: 50vw;
-    gap: 30px;
+    gap: 0.11rem;
 }
 
-.banner #textobannersection01 #h2textobannersection01{
+.banner #textobannersection01 #h2textobannersection01 {
     color: #4D4D4D;
 
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
-    font-size: 60px;
-    line-height: 53px;
+    font-size: 3.75rem;
+    line-height: 3.3125rem;
 }
 
-.banner #textobannersection01 #paragrafotextobannersection01{
+.banner #textobannersection01 #paragrafotextobannersection01 {
     color: #717171;
 
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
-    line-height: 17px;
+    font-size: 0.9375rem;
+    line-height: 1.06rem;
 }
 
-.banner #textobannersection01 button{
-    width: 89.55px;
-    height: 36.49px;    
+.banner #textobannersection01 button {
+    width: 5rem;
+    height: 2.28rem;
 
-    border: 0px;
-    border-radius: 2.7px;
+    border: 0;
+    border-radius: 0.168rem;
 
     background: #4CAF4F;
 }
 
 
-.banner #janelaimgbannersection01{
+.banner #janelaimgbannersection01 {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -60,54 +60,134 @@
     height: 100%;
 }
 
-.banner #imgbannersection01{
-    width: 350px;
-    Height: 370px;
+.banner #imgbannersection01 {
+    width: 21.875rem;
+    Height: 23.165rem;
 }
 
 
 /* ========================================================== */
 /* ===================      Section Clients    ============== */
 
-.clients{
+.clients {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 
-.clients .textoclients{
-    gap: 10px;
+.clients .textoclients {
+    gap: 0.625rem;
 }
 
-.clients #h3clients{
+.clients #h3clients {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
-    font-size: 30px;
-    line-height: 31px;
-    
+    font-size: 1.875rem;
+    line-height: 1.9375rem;
+
     text-align: center;
-    
+
     color: #4D4D4D;
 
-    padding: 10px;
+    padding: 0.625rem;
 }
 
-.clients #paragradoclients{
+.clients #paragradoclients {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
-    line-height: 17px;
+    font-size: 1.06rem;
+    line-height: 1.06rem;
 
     text-align: center;
 
     color: #717171;
 }
 
-.clients #logoclientes{
+.clients #logoclientes {
     display: flex;
     flex-direction: row;
     justify-content: center;
 
-    padding: 20px;
+    padding: 1.250rem;
+}
+
+/* ========================================== */
+.community {
+    text-align: center;
+}
+
+.community #div01community {
+    margin-bottom: 0.9375rem;
+}
+
+.community #h3topocommunity {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.875rem;
+    line-height: 1.9375rem;
+
+    padding-bottom: 0.625rem;
+}
+
+.community #paragrafotopocommunity {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.06rem;
+    line-height: 1.06rem;
+
+    color: #717171;
+}
+
+.community #div02community {
+    padding: 0.625rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 6.25rem;
+
+    gap: 6.25rem;
+}
+
+.community #div02community .definirotamanhodadivpaprajustarmelhor{
+    width: 21.875rem;
+    height: auto;
+}
+
+.community #div02community img{
+    width: 3.125rem;
+    height: 2.5rem;
+}
+    
+
+.community #div02community .h4geralcommunity {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.56rem;
+    line-height: 1.56rem;
+
+    text-align: center;
+
+    padding: 0.625rem;
+
+    color: #4D4D4D;
+}
+
+.community #div02community .paragrafogeralcommunuty{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 1.06rem;
+line-height: 1.06rem;
+
+text-align: center;
+
+
+color: #717171;
 }

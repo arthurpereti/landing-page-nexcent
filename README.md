@@ -35,7 +35,7 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 * Repositório: https://github.com/arthurpereti/landing-page
 
 ## Créditos
-* O design da landing page que foi contruído pelo Muntasir Billah
+* O design da landing page que foi construído pelo Muntasir Billah
 
 ## Licença
 * Este projeto está licenciado sob a MIT License.

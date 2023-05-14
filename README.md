@@ -35,6 +35,7 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 ## Links 
 * Deploy no Netlify: https://ladingpage-arthurpereti.netlify.app/
 * Repositório: https://github.com/arthurpereti/landing-page
+* Design no Figma: https://www.figma.com/community/file/1222060007934600841
 
 ## Créditos
 * O design da landing page que foi construído pelo Muntasir Billah

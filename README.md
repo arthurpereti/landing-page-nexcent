@@ -1,5 +1,7 @@
 # Landing Page Nexcent
 
+# Status do Projeto: Em andamento
+
 ## Descrição
 Este projeto consiste na criação de uma landing page responsiva. A landing page é uma página inicial atraente e informativa, cujo objetivo é capturar a atenção dos usuários e incentivá-los a tomar uma ação específica, como preencher um formulário, se inscrever em uma newsletter, fazer uma compra, entre outros.
 

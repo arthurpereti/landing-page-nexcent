@@ -1,5 +1,7 @@
 # Landing Page Nexcent
 
+![Logo do projeto](https://github.com/arthurpereti/landing-page/blob/main/public/img/logo/logo.svg)
+
 #### - Status do Projeto: Em andamento
 
 ## Descrição

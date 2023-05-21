@@ -26,7 +26,7 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
-    font-size: 3.75rem;
+    font-size: 3.05rem;
     line-height: 3.3125rem;
 }
 
@@ -112,8 +112,12 @@
     padding: 1.250rem;
 }
 
-/* ========================================== */
+
+/* ========================================================== */
+/* =================      Section Community    ============== */
 .community {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     text-align: center;
 }
 
@@ -154,16 +158,16 @@
     gap: 6.25rem;
 }
 
-.community #div02community .definirotamanhodadivpaprajustarmelhor{
+.community #div02community .definirotamanhodadivpaprajustarmelhor {
     width: 21.875rem;
     height: auto;
 }
 
-.community #div02community img{
+.community #div02community img {
     width: 3.125rem;
     height: 2.5rem;
 }
-    
+
 
 .community #div02community .h4geralcommunity {
     font-family: 'Inter';
@@ -179,15 +183,102 @@
     color: #4D4D4D;
 }
 
-.community #div02community .paragrafogeralcommunuty{
+.community #div02community .paragrafogeralcommunuty {
     font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 1.06rem;
-line-height: 1.06rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.06rem;
+    line-height: 1.06rem;
 
-text-align: center;
+    text-align: center;
 
 
-color: #717171;
+    color: #717171;
+}
+
+
+/* ========================================================== */
+/* ================      Section PixelGrade    ============== */
+
+.pixelgrade {
+    display: flex;
+
+    max-width: 100vw;
+    max-height: 300px;
+
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.pixelgrade #janela01imgpixelgrade {
+    width: 45vw;
+}
+
+.pixelgrade #janela01imgpixelgrade #janela02imgpixelgrade {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    padding: 20px;
+
+}
+
+
+
+.pixelgrade #textpixelgrade {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+
+    width: 55vw;
+}
+
+.pixelgrade #textpixelgrade .h3paragrafobuttontextpixelgrade {
+    margin: 0px 50px;
+}
+
+.pixelgrade #textpixelgrade #h3textpixelgrade {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.875rem;
+    line-height: 1.925rem;
+
+    color: #4D4D4D;
+}
+
+.pixelgrade #textpixelgrade #paragrafotextpixelgrade {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.06rem;
+    line-height: 1.06rem;
+
+    color: #717171;
+}
+
+.pixelgrade #textpixelgrade #buttontextpixelgrade {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 22px;
+    gap: 7px;
+
+    width: 7vw;
+    height: 5vh;
+
+    color: #FFFFFF;
+    background: #4CAF4F;
+
+    border: none;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.8rem;
+    line-height: 0.6rem;
 }

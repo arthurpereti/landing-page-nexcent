@@ -96,7 +96,7 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.06rem;
+    font-size: 1rem;
     line-height: 1.06rem;
 
     text-align: center;
@@ -122,7 +122,7 @@
 }
 
 .community #div01community {
-    margin-bottom: 0.9375rem;
+    margin-bottom: 0.9rem;
 }
 
 .community #h3topocommunity {
@@ -131,16 +131,18 @@
     font-weight: 600;
     font-size: 1.875rem;
     line-height: 1.9375rem;
-
-    padding-bottom: 0.625rem;
+    text-align: center;
+    color: #4D4D4D;
+    padding: 0.625rem;
 }
 
 .community #paragrafotopocommunity {
+    height: 2vh;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.06rem;
-    line-height: 1.06rem;
+    font-size: 1rem;
+    line-height: 0.8rem;
 
     color: #717171;
 }
@@ -187,8 +189,8 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.06rem;
-    line-height: 1.06rem;
+    font-size: 0.9rem;
+    line-height: 1rem;
 
     text-align: center;
 
@@ -236,31 +238,31 @@
     width: 55vw;
 }
 
-.pixelgrade #textpixelgrade .h3paragrafobuttontextpixelgrade {
-    margin: 0px 50px;
+.pixelgrade .h3paragrafobuttontextpixelgrade {
+    margin-right: 12rem;
 }
 
-.pixelgrade #textpixelgrade #h3textpixelgrade {
+.pixelgrade #h3textpixelgrade {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
-    font-size: 1.875rem;
+    font-size: 1.75rem;
     line-height: 1.925rem;
 
     color: #4D4D4D;
 }
 
-.pixelgrade #textpixelgrade #paragrafotextpixelgrade {
+.pixelgrade #paragrafotextpixelgrade {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.06rem;
-    line-height: 1.06rem;
+    font-size: 0.9rem;
+    line-height: 1rem;
 
     color: #717171;
 }
 
-.pixelgrade #textpixelgrade #buttontextpixelgrade {
+.pixelgrade #buttontextpixelgrade {
     display: flex;
     flex-direction: row;
     justify-content: center;

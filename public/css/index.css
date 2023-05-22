@@ -281,3 +281,106 @@
     font-size: 0.8rem;
     line-height: 0.6rem;
 }
+
+/* ============================================================ */
+/* ================      Section Helpinglocal    ============== */
+
+.helpinglocal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 50px 200px;
+    gap: 20.88px;
+
+    background: #F5F7FA;
+}
+
+.helpinglocal #texthelpinglocal{
+    width: 40vw;
+}
+
+.helpinglocal #texthelpinglocal #h3texthelpinglocal {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25.0585px;
+    line-height: 31px;
+
+    color: #4D4D4D;
+}
+
+.helpinglocal #texthelpinglocal #paragrafotexthelpinglocal {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.1371px;
+    line-height: 17px;
+
+    color: #18191F;
+}
+
+/* parte direita da section */
+.helpinglocal #imgh5phelpinglocal {
+    width: 40vw;
+
+    display: flex;
+    flex-direction: row;
+    justify-content : center;
+    align-items: center;
+    gap: 7rem;
+}
+
+
+/* Todos os H5 do (imgh5phelpinglocal) */
+.helpinglocal #imgh5phelpinglocal .h5imgh5phelpinglocal {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19.4899px;
+    line-height: 25px;
+
+    color: #4D4D4D;
+}
+
+/* Todos os p do (imgh5phelpinglocal) */
+.helpinglocal #imgh5phelpinglocal .paragrafoimgh5phelpinglocal {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.1371px;
+
+    color: #717171;
+
+}
+
+/* primeira div dos icones (people */
+.helpinglocal #imgh5phelpinglocal .div01iconeshelpinglocal #janela01div01iconeshelpinglocal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+/* segunda div dos icones (people */
+.helpinglocal #imgh5phelpinglocal .div01iconeshelpinglocal #janela02div01iconeshelpinglocal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+/* terceira div dos icones (people */
+.helpinglocal #imgh5phelpinglocal .div02iconeshelpinglocal #janela01div02iconeshelpinglocal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+/* quarta div dos icones (people */
+.helpinglocal #imgh5phelpinglocal .div02iconeshelpinglocal #janela02div02iconeshelpinglocal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}

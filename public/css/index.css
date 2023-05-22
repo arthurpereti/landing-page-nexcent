@@ -12,7 +12,7 @@
 
 
 .banner #textobannersection01 {
-    margin-left: 28rem;
+    margin-left: 14rem;
     display: flex;
     flex-direction: column;
 
@@ -137,13 +137,10 @@
 }
 
 .community #paragrafotopocommunity {
-    height: 2vh;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 1rem;
-    line-height: 0.8rem;
-
     color: #717171;
 }
 
@@ -270,7 +267,7 @@
     padding: 9px 22px;
     gap: 7px;
 
-    width: 7vw;
+    width: 10vw;
     height: 5vh;
 
     color: #FFFFFF;

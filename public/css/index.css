@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
 .banner {
     width: 100vw;
     height: 26.25rem;
@@ -12,7 +14,7 @@
 
 
 .banner #textobannersection01 {
-    margin-left: 14rem;
+    padding-left: 200px;
     display: flex;
     flex-direction: column;
 
@@ -27,7 +29,6 @@
     font-style: normal;
     font-weight: 600;
     font-size: 3.05rem;
-    line-height: 3.3125rem;
 }
 
 .banner #textobannersection01 #paragrafotextobannersection01 {
@@ -37,16 +38,16 @@
     font-style: normal;
     font-weight: 400;
     font-size: 0.9375rem;
-    line-height: 1.06rem;
 }
 
 .banner #textobannersection01 button {
-    width: 5rem;
-    height: 2.28rem;
+    width: 7rem;
+    height: 2.5rem;
 
     border: 0;
     border-radius: 0.168rem;
 
+    color: #FFFFFF;
     background: #4CAF4F;
 }
 
@@ -83,7 +84,6 @@
     font-style: normal;
     font-weight: 600;
     font-size: 1.875rem;
-    line-height: 1.9375rem;
 
     text-align: center;
 
@@ -97,7 +97,6 @@
     font-style: normal;
     font-weight: 400;
     font-size: 1rem;
-    line-height: 1.06rem;
 
     text-align: center;
 
@@ -131,7 +130,6 @@
     font-style: normal;
     font-weight: 600;
     font-size: 1.875rem;
-    line-height: 1.9375rem;
     text-align: center;
     color: #4D4D4D;
     padding: 0.625rem;
@@ -153,7 +151,7 @@
     justify-content: center;
     align-items: center;
 
-    margin: 0 6.25rem;
+    padding: 0 6.25rem;
 
     gap: 6.25rem;
 }
@@ -174,7 +172,6 @@
     font-style: normal;
     font-weight: 700;
     font-size: 1.56rem;
-    line-height: 1.56rem;
 
     text-align: center;
 
@@ -188,7 +185,6 @@
     font-style: normal;
     font-weight: 400;
     font-size: 0.9rem;
-    line-height: 1rem;
 
     text-align: center;
 
@@ -208,6 +204,7 @@
 
     margin-top: 1rem;
     margin-bottom: 1rem;
+    padding: 0 100px;
 }
 
 .pixelgrade #janela01imgpixelgrade {
@@ -237,7 +234,7 @@
 }
 
 .pixelgrade .h3paragrafobuttontextpixelgrade {
-    margin-right: 12rem;
+    padding-right: 12rem;
 }
 
 .pixelgrade #h3textpixelgrade {
@@ -245,7 +242,6 @@
     font-style: normal;
     font-weight: 600;
     font-size: 1.75rem;
-    line-height: 1.925rem;
 
     color: #4D4D4D;
 }
@@ -255,7 +251,6 @@
     font-style: normal;
     font-weight: 400;
     font-size: 0.9rem;
-    line-height: 1rem;
 
     color: #717171;
 }
@@ -280,7 +275,6 @@
     font-style: normal;
     font-weight: 500;
     font-size: 0.8rem;
-    line-height: 0.6rem;
 }
 
 /* ============================================================ */
@@ -290,7 +284,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 50px 200px;
+    padding: 50px 300px;
     gap: 20.88px;
 
     margin-top: 1rem;
@@ -307,8 +301,7 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
-    font-size: 25.0585px;
-    line-height: 31px;
+    font-size: 1.75rem;
 
     color: #4D4D4D;
 }
@@ -317,9 +310,9 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 11.1371px;
-    line-height: 17px;
+    font-size: 0.9rem;
 
+    padding-top: 11.67px;
     color: #18191F;
 }
 
@@ -331,6 +324,7 @@
     flex-direction: row;
     justify-content : center;
     align-items: center;
+    padding: 0 28px;
     gap: 7em
 }
 
@@ -340,8 +334,7 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
-    font-size: 19.4899px;
-    line-height: 25px;
+    font-size: 1.56rem;
 
     color: #4D4D4D;
 }
@@ -351,7 +344,7 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 11.1371px;
+    font-size: 0.9rem;
 
     color: #717171;
 

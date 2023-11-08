@@ -10,28 +10,19 @@ header{
 
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     width: 100vw;
     height: 85px;
+    gap: 13rem;
 }
 
-
-header #logoheader{
-    width: 154.49px;
-    height: 24px;
-
-    padding: 0 200px;
-
-}
 
 
 header #navebutton{
     display: flex;
     flex-direction: row;
     align-items: center;
-
-    width: 50vw;
 }
 
 header #navebutton .itenslistheader{
